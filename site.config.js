@@ -2,18 +2,18 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "stargamer",
-    image: "/20UMGIM12176.rgb.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "master/prores collector",
-    bio: "i love prores music videos.",
-    email: "stargamerprores@gmail.com",
+    image: "/avatar.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    role: "ProRes/Masters Music Video Collector",
+    bio: "I collect prores/masters music videos",
+    email: "arithystt@gmail.com",
     linkedin: "",
     github: "",
     instagram: "",
   },
   // blog setting (required)
   blog: {
-    title: "stargamer",
-    description: "stargamer prores collection.",
+    title: "Arithyst",
+    description: "Arithyst's Music Video Collection",
     theme: "auto", // ['light', 'dark', 'auto']
   },
 
