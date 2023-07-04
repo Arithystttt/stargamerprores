@@ -1,7 +1,7 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "stargamer",
+    name: "Arithyst",
     image: "/avatar.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "ProRes/Masters Music Video Collector",
     bio: "I collect prores/masters music videos",
